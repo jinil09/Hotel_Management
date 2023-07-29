@@ -17,5 +17,7 @@ Data Persistence: The program uses serialization to save the hotel's current sta
 
 
 
+
 Usage:
+
 To use the Hotel Management System, users can run the Java program. The program will present a menu of options to choose from, and the user can select the desired action by entering the corresponding number. Users can book rooms, order food, check availability, and view room details as needed. The program also provides an option to check out from a room when the guest's stay is complete.
